@@ -1,0 +1,4 @@
+class OpenidAssociation < OpenidAbstract
+  
+
+end
